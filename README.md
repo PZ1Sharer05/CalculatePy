@@ -6,14 +6,14 @@ CalculatePy is a file that contains built-in functions that can do calculations
 
 # List of Calculations
 
-+     --> plus
+# +     --> plus
 
--     --> minus
+# -     --> minus
 
-*     --> times
+# *     --> times
 
-/     --> divide
+# /     --> divide
 
-**    --> Square
+# **    --> Square
 
-%     --> Modula
+# %     --> Modula
